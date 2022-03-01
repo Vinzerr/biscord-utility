@@ -1,0 +1,1 @@
+exports.EmbedPagination = require('./util/EmbedPagination')

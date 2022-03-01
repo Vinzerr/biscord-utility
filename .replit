@@ -1,4 +1,4 @@
-run = "cowsay Welcome to Nix on Replit!"
+run = "node test/index.js"
 
 [nix]
 channel = "stable-21_11"
